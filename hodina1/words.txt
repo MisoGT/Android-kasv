@@ -1,0 +1,5 @@
+pen
+ratio
+car
+house
+cat
