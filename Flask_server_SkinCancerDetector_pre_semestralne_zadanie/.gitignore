@@ -1,0 +1,13 @@
+# ignore uploaded images in the "static" directory
+static/**/*.jpg
+static/**/*.png
+
+# Ignore all images in the "uploaded_images" directory
+uploaded_images/**/*.jpg
+uploaded_images/**/*.png
+
+#saved_model.pth
+#saved_model_20_epoch.pth
+apply_trained_model_image_classifier.py
+# cnn_model_class.py
+__pycache__
